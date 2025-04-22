@@ -109,11 +109,9 @@ This swaps the summarizer with a QA model like `deepset/roberta-base-squad2`, wh
 
 ## 🖼️ Screenshots
 
-### 🔹 Streamlit Demo - Input
+### 🔹 Streamlit Demo - Input/Output
 
 ![Demo 1](Demo1.png)
-
-### 🔹 Streamlit Demo - Output
 
 ![Demo 2](Demo2.png)
 
