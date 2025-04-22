@@ -106,7 +106,7 @@ answer = generate_answer(context, state["query"])
 ```
 
 This swaps the summarizer with a QA model like `deepset/roberta-base-squad2`, which works better for direct questions like "Who won the IPL in 2018?".
-```
+
 ## 🖼️ Screenshots
 
 ### 🔹 Streamlit Demo - Input
